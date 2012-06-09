@@ -1,7 +1,7 @@
 # Maintainer: Forcyy <forcyy.zh AT gmail DOT com>
 pkgname=kdoubanfm
 pkgver=0.1
-pkgrel=1
+pkgrel=2
 pkgdesc="Douban FM Music service in Systray"
 arch=('i686' 'x86_64')
 url="http://kde-apps.org/content/show.php/KDoubanFM?content=151477"
